@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav.navbar {
+    background-color: #E83E8c !important;
+    height: 75px;
+    padding-right: 129px;
+    padding-left: 119px;
+}
+
+img.logo-suricata {
+    width: 132px;
+    height: 53px;
+}
+
+h1.nuestros-prod {
+    font-size: 60px;
+    color: #707070;
+    margin-top: 65px;
+}
+
+div.card {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+section.forma-pago {
+    background-color: #17A2B8;
+    height: 170px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    padding-right: 10%;
+}
+
+section.forma-pago h2 {
+    font-size: 40px;
+    color: #ffff;
+    font-weight: 800;
+    position: relative;
+    padding: 60px;
+    width: 100%;
+}
+
+i {
+    color: #ffff;
+    font-size: 4rem;
+    line-height: 3 !important;
+    margin-right: 2rem;
+}
+
+footer {
+    height: 184px;
+    background-color: #E83E8c !important;
+    line-height:11 !important;
+    text-align: center;
+}
+
+img#suricata-footer {
+    width: 53px;
+    height: 100px;
+}
